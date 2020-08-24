@@ -1,0 +1,17 @@
+Filesystem               Size  Used Avail Use% Mounted on
+devtmpfs                 1.1G     0  1.1G   0% /dev
+tmpfs                    1.1G     0  1.1G   0% /dev/shm
+tmpfs                    1.1G   41M 1004M   4% /run
+tmpfs                    1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/mapper/centos-root  8.1G  3.1G  5.1G  39% /
+/dev/sda1               1014M  181M  834M  18% /boot
+tmpfs                    209M     0  209M   0% /run/user/0
+overlay                  8.1G  3.1G  5.1G  39% /var/lib/docker/overlay2/63bfe2da53b89a80d7e3419cb434c6aa4f4ff84700d37bfc9eee479e8679c6ac/merged
+shm                       64M     0   64M   0% /var/lib/docker/containers/ad48078d35b14429c8ecad9bb9de457fe0941d4104ce2d47a32525596068d534/shm
+overlay                  8.1G  3.1G  5.1G  39% /var/lib/docker/overlay2/178cc1f8d977b288780cd479a231adda954a2fa832695a9a2c0950fbd7b0a5d1/merged
+shm                       64M     0   64M   0% /var/lib/docker/containers/bd9b17b5e1a969743b20ce28591f580f7d568ce515438a77c2ff6d714914e132/shm
+overlay                  8.1G  3.1G  5.1G  39% /var/lib/docker/overlay2/434d05c38022e9dc0cc7ce57af51bde733122375534c8d72b1b41aa1a32f2e3a/merged
+shm                       64M     0   64M   0% /var/lib/docker/containers/95da6680e741a23db13081d58234e544b079326411d70429fb0d93d4a4202339/shm
+overlay                  8.1G  3.1G  5.1G  39% /var/lib/docker/overlay2/b348332c17a9b99b2927381820a8ac760032c92ce41f2d21d5060f058a1830d0/merged
+shm                       64M     0   64M   0% /var/lib/docker/containers/ef3f23ab78dfba729cc2240d9738682026b079aee43532133d3657377d71a902/shm
+overlay                  8.1G  3.1G  5.1G  39% /var/lib/docker/overlay2/5900244ca3ad43f11ad8285e84cdb8cc598bcc9d45c620daf0ead990a909e3f3/merged
