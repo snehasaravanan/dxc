@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my second file
+=======
+Linux git 3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+>>>>>>> bf6d5bc01a6ef0f0f9cdb11a33690eca5577d77a
